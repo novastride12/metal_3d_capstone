@@ -1,0 +1,9 @@
+Metric,PB,OT
+Total images,2638.0,2674.0
+Valid images,2638.0,2674.0
+Annotated images,1530.0,1122.0
+Images without annotations,1108.0,1552.0
+Total bounding boxes,5001.0,4339.0
+Average boxes per annotated image,3.268627450980392,3.8672014260249554
+Average image intensity,130.2492322949228,66.02150796652954
+Average bounding box area,20644.791841631675,23885.406775754782

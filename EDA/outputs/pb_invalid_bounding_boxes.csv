@@ -1,0 +1,2 @@
+filename,label_file,class,xmin,ymin,xmax,ymax,width,height,bbox_area,normalized_area_pct,bbox_width,bbox_height
+SI383820211201123521_00087_20211201T142533.828000.jpg,SI383820211201123521_00087_20211201T142533.828000.xml,defects,670,674,670,675,1280,1024,0,0.0,0,1
